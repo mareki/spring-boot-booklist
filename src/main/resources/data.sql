@@ -1,0 +1,2 @@
+insert into reader_entity (username, password, fullname) values ('craig', 'password', 'Craig Walls');
+insert into reader_entity (username, password, fullname) values ('walt', 'marceline', 'Walt Disney');
